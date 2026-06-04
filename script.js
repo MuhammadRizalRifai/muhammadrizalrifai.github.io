@@ -22,3 +22,4 @@ contactForm.addEventListener("submit", (event) => {
   formFeedback.style.color = "#86efac";
   contactForm.reset();
 });
+

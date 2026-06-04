@@ -127,6 +127,16 @@ a {
   text-align: center;
 }
 
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid rgba(56, 189, 248, 0.25);
+  margin: 0 auto 1.5rem;
+  box-shadow: 0 20px 60px rgba(15, 23, 42, 0.25);
+}
+
 .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.25em;
